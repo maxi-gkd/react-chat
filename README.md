@@ -7,11 +7,8 @@ The project is still in progress so there are some functionalities that are dumm
 
 <img src="https://user-images.githubusercontent.com/4089558/121626014-fd3dab80-ca4a-11eb-9e0b-5e5e791e084e.png" width="850" height="400">
 
-## Test it!
 
-https://gracious-jackson-6ad399.netlify.app
-
-## Play with it locally
+## Run it locally
 
 ### `npm start`
 
